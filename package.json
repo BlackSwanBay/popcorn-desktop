@@ -59,7 +59,7 @@
         "semver": "^4.3.3",
         "send": "0.12.2",
         "strike-api": "0.2.0",
-        "tar": "^1.0.3",
+        "tar": "^7.4.3",
         "temp": "^0.8.1",
         "torrent-tracker-health": "^0.1.4",
         "underscore": "^1.8.3",
